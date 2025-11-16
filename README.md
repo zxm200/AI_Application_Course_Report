@@ -1,0 +1,2 @@
+# AI_Application_Course_Report
+2025年AI应用技术结课考核代码
